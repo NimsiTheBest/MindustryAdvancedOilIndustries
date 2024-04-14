@@ -8,7 +8,7 @@ name: "piss-processing"
 author: "Nimsi"
 
 #the fully qualified main class of the mod
-main: "example.OilProcessing"
+main: "processing.OilIndustries"
 
 #the mod description as seen in the mod dialog
 description: "Advanced Oil Industries, also known as Oil Industries, is a mod that adds more stuff to do with your oil."
