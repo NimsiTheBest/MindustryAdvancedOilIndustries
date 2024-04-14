@@ -1,23 +1,23 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Advanced Oil Industries"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "piss-processing"
 
 #your name
-author: "You"
+author: "Nimsi"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "example.OilProcessing"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Advanced Oil Industries, also known as Oil Industries, is a mod that adds more stuff to do with your oil."
 
 #the mod version
-version: 1.0
+version: 0.2
 
 #the minimum game build required to run this mod
-minGameVersion: 145
+minGameVersion: 146
 
 #this is a java mod
 java: true
